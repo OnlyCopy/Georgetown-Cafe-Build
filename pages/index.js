@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import Banner from '../images/banner.png';
 import Card from '../components/Card';
-import BourbonChicken from '../images/food/BourbonChicken.jpg';
+import BourbonChicken from '../images/food/bourbonChicken.jpg';
 import Banner2 from '../images/banner3.png';
 import SPotato from '../images/food/sPotato.jpg';
 import EBowl from '../images/food/eBowl.jpg';
