@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .navigation ul li {
+    @apply hover:underline hover:text-gray-800;
+  }
+
+  .menuBtn {
+    @apply text-xl border-2 border-gray-200 rounded-full p-1 hover:text-black hover:border-black;
+  }
+
+  body {
+    @apply overflow-x-hidden;
+  }
+}
