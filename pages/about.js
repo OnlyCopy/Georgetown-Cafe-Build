@@ -52,15 +52,15 @@ export default function About() {
                                 <div className="faq space-y-2">
                                     <h1 className="text-4xl font-bold">Here are some FAQ's</h1>
                                     <br />
-                                    <div tabindex="0" className="collapse border border-base-300 bg-base-100 rounded-box collapse-arrow">
+                                    <div tabIndex="0" className="collapse border border-base-300 bg-base-100 rounded-box collapse-arrow">
                                         <div className="collapse-title text-xl font-medium">
                                             "Do you deliver?"
                                         </div>
-                                        <div tabindex="0" className="collapse-content"> 
+                                        <div tabIndex="0" className="collapse-content"> 
                                             <p>We do not deliver but we do offer curbside pick up!</p>
                                         </div>
                                     </div>
-                                    <div tabindex="0" className="collapse border border-base-300 bg-base-100 rounded-box collapse-arrow">
+                                    <div tabIndex="0" className="collapse border border-base-300 bg-base-100 rounded-box collapse-arrow">
                                         <div className="collapse-title text-xl font-medium">
                                         "When are you open?"
                                         </div>
@@ -68,7 +68,7 @@ export default function About() {
                                             <p>Were open Monday - Saturday from 11:00AM to 6:00PM</p>
                                         </div>
                                     </div>
-                                    <div tabindex="0" className="collapse border border-base-300 bg-base-100 rounded-box collapse-arrow">
+                                    <div tabIndex="0" className="collapse border border-base-300 bg-base-100 rounded-box collapse-arrow">
                                         <div className="collapse-title text-xl font-medium">
                                             "Do you take call in orders?"
                                         </div>
@@ -76,7 +76,7 @@ export default function About() {
                                             <p>Yes we do! you can call us at (859)-309-2777</p>
                                         </div>
                                     </div>
-                                    <div tabindex="0" className="collapse border border-base-300 bg-base-100 rounded-box collapse-arrow">
+                                    <div tabIndex="0" className="collapse border border-base-300 bg-base-100 rounded-box collapse-arrow">
                                         <div className="collapse-title text-xl font-medium">
                                             "How is Georgetown Cafe rated?"
                                         </div>
