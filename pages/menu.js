@@ -58,7 +58,7 @@ export default function Menu() {
                             <li>Menu</li> 
                         </ul>
                     </div>
-                    <div className="menu-content mt-20 px-10 items-center">
+                    <div className="menu-content mt-20 px-5 items-center">
                         <table className="mb-2">
                             <tr>
                                 <th>
